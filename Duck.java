@@ -1,7 +1,5 @@
-public fly() {
-	system.out.println("A duck can fly");
-}  
-
-public swim(){
-	system.out.println("A duck can swim");
-}
+Public class duck {
+  /* * Master branch is responsible for fly() method. */
+  public fly(){
+    system.out.println("A duck can fly");
+  }  
