@@ -5,5 +5,8 @@ Public class duck {
 	public swim(){
 		system.out.println("A duck can swim");
 	}
-	
+	public eat(){
+		system.out.println("A duck can eat");
+	}
+}
 
